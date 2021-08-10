@@ -1,0 +1,75 @@
+body{
+    margin-left: 24px;
+}
+
+.form-example {
+    display: flex;
+    height: 38px;
+    flex-direction: column;
+    width: 491px; 
+    margin-top: 15px;
+}
+
+
+label {
+    padding-right: 7px;
+}
+
+.text_fin {
+    position:absolute;
+    z-index:2;
+    margin-left: 140px;
+    margin-top: 242px;
+    font-size: 13px;
+}
+
+#info_com {
+    position:absolute;
+    z-index:2; 
+}
+
+#statut {
+    position:absolute;
+    z-index:2;  
+    margin-top: 56px;
+}
+
+
+#nom {
+    position:absolute;
+    z-index:2; 
+    margin-top: 94px;
+}
+
+#prenom {
+    position:absolute;
+    z-index:2; 
+    margin-top: 127px;
+}
+
+#matricule {
+    position:absolute;
+    z-index:2; 
+    margin-top: 162px;
+}
+
+.bloc {
+    margin-left: 141px;
+    font-size: 10px; 
+    margin-top: 31px;
+}
+
+#photo {
+    position:absolute;
+    z-index:2; 
+    margin-top: 16px;
+    margin-left: 13px;
+}
+
+.fond_carte {
+    border-radius: 13px;
+}
+
+.btn {
+    margin-top: 193px;
+}
